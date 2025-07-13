@@ -1,3 +1,6 @@
 [submodule "LinkedIn_company_employee_scrap"]
 	path = LinkedIn_company_employee_scrap
 	url = https://github.com/harivonyR/LinkedIn_company_employee_scrap
+[submodule "Reddit_topic_scraper"]
+	path = Reddit_topic_scraper
+	url = https://github.com/harivonyR/Reddit_topic_scraper
