@@ -4,3 +4,6 @@
 [submodule "Reddit_topic_scraper"]
 	path = Reddit_topic_scraper
 	url = https://github.com/harivonyR/Reddit_topic_scraper
+[submodule "Sentiment_analysis_using_Google_search"]
+	path = Sentiment_analysis_using_Google_search
+	url = https://github.com/harivonyR/Sentiment_analysis_using_Google_search
