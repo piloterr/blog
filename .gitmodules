@@ -7,3 +7,6 @@
 [submodule "Sentiment_analysis_using_Google_search"]
 	path = Sentiment_analysis_using_Google_search
 	url = https://github.com/harivonyR/Sentiment_analysis_using_Google_search
+[submodule "LeroyMerlyn_scraping"]
+	path = LeroyMerlyn_scraping
+	url = https://github.com/harivonyR/LeroyMerlyn_scraping
