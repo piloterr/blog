@@ -10,3 +10,6 @@
 [submodule "LeroyMerlyn_scraping"]
 	path = LeroyMerlyn_scraping
 	url = https://github.com/harivonyR/LeroyMerlyn_scraping
+[submodule "LinkedIn_Lead_Generation"]
+	path = LinkedIn_Lead_Generation
+	url = https://github.com/harivonyR/LinkedIn_Lead_Generation
