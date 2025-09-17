@@ -13,3 +13,6 @@
 [submodule "LinkedIn_Lead_Generation"]
 	path = LinkedIn_Lead_Generation
 	url = https://github.com/harivonyR/LinkedIn_Lead_Generation
+[submodule "Bulk_Email_Validator"]
+	path = Bulk_Email_Validator
+	url = https://github.com/harivonyR/Bulk_Email_Validator
