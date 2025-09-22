@@ -16,3 +16,6 @@
 [submodule "Bulk_Email_Validator"]
 	path = Bulk_Email_Validator
 	url = https://github.com/harivonyR/Bulk_Email_Validator
+[submodule "Homestra_Real_Estate_Scraping"]
+	path = Homestra_Real_Estate_Scraping
+	url = https://github.com/harivonyR/Homestra_Real_Estate_Scraping
