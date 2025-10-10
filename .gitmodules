@@ -19,3 +19,6 @@
 [submodule "Homestra_Real_Estate_Scraping"]
 	path = Homestra_Real_Estate_Scraping
 	url = https://github.com/harivonyR/Homestra_Real_Estate_Scraping
+[submodule "Upwork_Client_Demand_Tracker"]
+	path = Upwork_Client_Demand_Tracker
+	url = https://github.com/harivonyR/Upwork_Client_Demand_Tracker
