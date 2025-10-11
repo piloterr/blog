@@ -19,3 +19,6 @@
 [submodule "Homestra_Real_Estate_Scraping"]
 	path = Homestra_Real_Estate_Scraping
 	url = https://github.com/harivonyR/Homestra_Real_Estate_Scraping
+[submodule "Freelancer_On_Demand_Job"]
+	path = Freelancer_On_Demand_Job
+	url = https://github.com/harivonyR/Freelancer_On_Demand_Job
