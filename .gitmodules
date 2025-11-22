@@ -25,3 +25,6 @@
 [submodule "Leboncoin_scraping"]
 	path = Leboncoin_scraping
 	url = https://github.com/harivonyR/Leboncoin_scraping
+[submodule "Producthunt_Launch_Archive_Scraping"]
+	path = Producthunt_Launch_Archive_Scraping
+	url = https://github.com/harivonyR/Producthunt_Launch_Archive_Scraping
