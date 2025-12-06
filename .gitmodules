@@ -28,3 +28,6 @@
 [submodule "Producthunt_Launch_Archive_Scraping"]
 	path = Producthunt_Launch_Archive_Scraping
 	url = https://github.com/harivonyR/Producthunt_Launch_Archive_Scraping
+[submodule "Scrape_Company_Info_ProductHunt_CrunchBase_LinkedIn"]
+	path = Scrape_Company_Info_ProductHunt_CrunchBase_LinkedIn
+	url = https://github.com/harivonyR/Scrape_Company_Info_ProductHunt_CrunchBase_LinkedIn
