@@ -31,3 +31,6 @@
 [submodule "Scrape_Company_Info_ProductHunt_CrunchBase_LinkedIn"]
 	path = Scrape_Company_Info_ProductHunt_CrunchBase_LinkedIn
 	url = https://github.com/harivonyR/Scrape_Company_Info_ProductHunt_CrunchBase_LinkedIn
+[submodule "flightradar"]
+	path = flightradar
+	url = https://github.com/harivonyR/flightradar
