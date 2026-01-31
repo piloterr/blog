@@ -34,3 +34,6 @@
 [submodule "flightradar"]
 	path = flightradar
 	url = https://github.com/harivonyR/flightradar
+[submodule "polymarket_scraping"]
+	path = polymarket_scraping
+	url = https://github.com/harivonyR/polymarket_scraping
